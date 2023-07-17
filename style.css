@@ -1,0 +1,36 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: linear-gradient(90deg, #ED7F21, #F76523);
+}
+header{
+    background-color: black;
+    color: white;
+    height: 100px;
+    text-align: center;
+}
+main{
+
+}
+section{
+
+}
+p{
+
+}
+
+.imagem{
+
+}
+a{
+    color: white;
+    text-transform: none;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
