@@ -13,8 +13,8 @@ header{
     text-align: center;
     font-variant: small-caps;
 }
-main{
-
+h1{
+    font-family: 'Lilita One', cursive;
 }
 section{
     margin-top: 10px; 
@@ -23,6 +23,7 @@ section{
     padding: 10%;
     max-height: max-content;
     box-shadow: 2px 1px 30px black;
+    border-radius: 5px;
 
 }
 
@@ -49,6 +50,7 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
+    margin-top: 10px;
 }
 #p_principal{
     margin-top: 0px;
@@ -64,6 +66,6 @@ p{
     box-shadow: 1px 5px 30px black;
     border-radius: 10px;
     min-width: 175px;
-    
+    font-family: 'Philosopher', sans-serif;
     
 }
